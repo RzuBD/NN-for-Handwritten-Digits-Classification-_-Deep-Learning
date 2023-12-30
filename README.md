@@ -1,3 +1,2 @@
-"# Diabetes_Deep_Neural_Network" 
 # NN-for-Handwritten-Digits-Classification_Deep-Learning
  Neural Network for Handwritten Digits Classification _ Deep Learning
